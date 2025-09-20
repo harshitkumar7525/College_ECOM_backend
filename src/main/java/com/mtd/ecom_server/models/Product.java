@@ -14,6 +14,7 @@ public class Product {
 	private float price;
 	private int stock;
 	
+
 	public String getId() {
 		return id;
 	}
